@@ -2,6 +2,8 @@
 
 My name is Valentín Pate. Junior front-end developer from Buenos Aires, Argentina.
 
+![HTML Programming](1.jpg "HTML Programming")
+
 ## I'm right now building stuff with...
 
 * HTML
@@ -17,6 +19,6 @@ This is only the beginning. I'm looking forward to learning and working in this 
 
 I'm only using [Instagram](https://www.instagram.com/valentinpate/) at the moment.
 
-**Buena suerte... ¡y hasta luego!**
+#### Buena suerte... ¡y hasta luego!
 
-![Shoutout to the best screen of them all...](bliss.jpg "Bliss")
+![CSS Programiing](2.jpg "CSS Programming")
