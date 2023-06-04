@@ -1,6 +1,6 @@
-## Hi!
+## Hi! 👋
 
-My name is Valentín Pate. Junior front-end developer from Buenos Aires, Argentina.
+My name is Valentín Pate. Junior front-end developer from Buenos Aires, Argentina. 🇦🇷
 
 ![HTML Programming](1.jpg "HTML Programming")
 
@@ -9,11 +9,12 @@ My name is Valentín Pate. Junior front-end developer from Buenos Aires, Argenti
 * HTML
 * CSS
 * JavaScript
-* GIT (and yes, GitHub!)
+* Markdown
+* GIT (and of course, GitHub!)
 
 ## So...
 
-This is only the beginning. I'm looking forward to learning and working in this pretty programming world.
+This is only the beginning. I'm looking forward to learning and working in this pretty programming world. 💻
 
 ## ...social media?
 
