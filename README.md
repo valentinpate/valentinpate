@@ -12,11 +12,11 @@ My name is Valentín Pate. Junior front-end developer from Buenos Aires, Argenti
 * Markdown
 * GIT (and of course, GitHub!)
 
-## So...
+## ...
 
 This is only the beginning. I'm looking forward to learning and working in this pretty programming world. 💻
 
-## ...social media?
+## Social media
 
 I'm only using [Instagram](https://www.instagram.com/valentinpate/) at the moment.
 
