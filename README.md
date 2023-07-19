@@ -9,17 +9,17 @@ My name is Valentín Pate. Junior front-end developer from Buenos Aires, Argenti
 * HTML
 * CSS
 * JavaScript
+* React
 * Markdown
-* GIT (and of course, GitHub!)
+* GIT
 
-## ...
+## Currently learning
 
-This is only the beginning. I'm looking forward to learning and working in this pretty programming world. 💻
-
-## Social media
-
-I'm only using [Instagram](https://www.instagram.com/valentinpate/) at the moment.
-
-#### Buena suerte... ¡y hasta luego!
+* Back-end (NodeJS)
+* React Native
+* APIs (Axios)
+* Angular
+* Vercel
+* Python
 
 ![CSS Programiing](2.jpg "CSS Programming")
