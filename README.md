@@ -15,11 +15,10 @@ My name is Valentín Pate. Junior front-end developer from Buenos Aires, Argenti
 
 ## Currently learning
 
-* Back-end (NodeJS)
-* React Native
-* APIs (Axios)
-* Angular
-* Vercel
+* Node.js
+* MongoDB
+* MySQL
+* TypeScript
 * Python
 
 ![CSS Programiing](2.jpg "CSS Programming")
