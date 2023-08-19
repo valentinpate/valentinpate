@@ -1,4 +1,4 @@
-## Hi! 👋
+## Hi!
 
 My name is Valentín Pate. Junior front-end developer from Buenos Aires, Argentina. 🇦🇷
 
