@@ -2,7 +2,7 @@
 
 ![HTML Programming](1.jpg "HTML Programming")
 
-## Front-end
+### Front-end
 * HTML
 * CSS
 * JavaScript
@@ -10,15 +10,15 @@
 * Angular (basic knowledge)
 * Other frameworks (Bootstrap - Materialize - Bulma)
 
-## Back-end
+### Back-end
 * Node.js
 * EJS
 * TypeScript (basic knowledge)
 
-## Databases
+### Databases
 * MongoDB
 * MySQL
 
-## GIT use
+### GIT use
 
 ![CSS Programiing](2.jpg "CSS Programming")
