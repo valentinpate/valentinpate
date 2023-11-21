@@ -1,24 +1,24 @@
-## Hi!
-
-My name is Valentín Pate. Junior front-end developer from Buenos Aires, Argentina. 🇦🇷
+#### My name is Valentín Pate. Junior front-end developer from Buenos Aires, Argentina. 🇦🇷
 
 ![HTML Programming](1.jpg "HTML Programming")
 
-## I'm right now building stuff with...
-
+## Front-end
 * HTML
 * CSS
 * JavaScript
-* React
-* Markdown
-* GIT
+* React & Vite.js
+* Angular (basic knowledge)
+* Other frameworks (Bootstrap - Materialize - Bulma)
 
-## Currently learning
-
+## Back-end
 * Node.js
+* EJS
+* TypeScript (basic knowledge)
+
+## Databases
 * MongoDB
 * MySQL
-* TypeScript
-* Python
+
+## GIT use
 
 ![CSS Programiing](2.jpg "CSS Programming")
